@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitdacoder&label=Profile%20views&color=0e75b6&style=flat" alt="rohitdacoder" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Data Structure and Algorithm and Andriod Development**
 
-- 💬 Ask me about **Android, Universe**
+- 💬 Ask me about **Android , Computer**
 
 - 📫 How to reach me **rohitsharma3860@gmail.com**
 
-- ⚡ Fun fact **I like to talk about anything**
+- ⚡ Fun fact **Chreefull person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
